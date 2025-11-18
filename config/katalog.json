@@ -5,8 +5,7 @@
     "gewicht_stk": 0,
     "stapelfaktor": 6,
     "frachtzahler": "Lieferant",
-    "sonderregel": "Nicht-EU >1000€ Proforma + Ausfuhr",
-    "foto": "https://i.postimg.cc/0jVvY7nJ/asw-ringtraeger.jpg"
+    "sonderregel": "Nicht-EU >1000€ Proforma + Ausfuhr + Plombe mr6550"
   },
   {
     "lieferant": "Aurubis",
@@ -14,23 +13,61 @@
     "gewicht_stk": 93,
     "spule_kg": 80,
     "palette_kg": 13,
-    "frachtzahler": "SLZ",
-    "lagerung": "INNEN",
-    "foto": "https://i.postimg.cc/8cZ5kJ5P/aurubis-spule.jpg"
+    "frachtzahler": "SLZ"
   },
   {
     "lieferant": "Bedra-Berkenhoff",
     "art": "Spulen Typ 1",
     "stapelfaktor": 12,
-    "frachtzahler": "SLZ",
-    "foto": "https://i.postimg.cc/L6YkH2vP/bedra-typ1.jpg"
+    "frachtzahler": "SLZ"
+  },
+  {
+    "lieferant": "Bedra-Berkenhoff",
+    "art": "Spulen Typ 2",
+    "stapelfaktor": 15,
+    "frachtzahler": "SLZ"
   },
   {
     "lieferant": "Garphyttan",
     "art": "Ringträger klein",
     "gewicht_stk": 17,
+    "frachtzahler": "Lieferant"
+  },
+  {
+    "lieferant": "Garphyttan",
+    "art": "Ringträger mittel",
+    "gewicht_stk": 30,
+    "frachtzahler": "Lieferant"
+  },
+  {
+    "lieferant": "Garphyttan",
+    "art": "Ringträger groß",
+    "gewicht_stk": 35,
+    "frachtzahler": "Lieferant"
+  },
+  {
+    "lieferant": "Kiswire",
+    "art": "Ringträger klein grün",
+    "gewicht_stk": 44,
+    "frachtzahler": "Lieferant"
+  },
+  {
+    "lieferant": "Kiswire",
+    "art": "Ringträger groß blau",
+    "gewicht_stk": 48,
+    "frachtzahler": "Lieferant"
+  },
+  {
+    "lieferant": "Sandvik",
+    "art": "Spulen",
+    "gewicht_stk": 44,
+    "frachtzahler": "SLZ"
+  },
+  {
+    "lieferant": "Studer",
+    "art": "Spulen 355/36",
+    "gewicht_stk": 52,
     "frachtzahler": "Lieferant",
-    "foto": "https://i.postimg.cc/3xYkL2vP/garphyttan-klein.jpg"
+    "sonderregel": "Nicht-EU"
   }
-  // ... füge hier einfach weitere Einträge hinzu – die App erkennt sie automatisch!
 ]
