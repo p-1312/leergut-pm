@@ -1,0 +1,36 @@
+[
+  {
+    "lieferant": "ASW",
+    "art": "Ringträger",
+    "gewicht_stk": 0,
+    "stapelfaktor": 6,
+    "frachtzahler": "Lieferant",
+    "sonderregel": "Nicht-EU >1000€ Proforma + Ausfuhr",
+    "foto": "https://i.postimg.cc/0jVvY7nJ/asw-ringtraeger.jpg"
+  },
+  {
+    "lieferant": "Aurubis",
+    "art": "Spule + Palette",
+    "gewicht_stk": 93,
+    "spule_kg": 80,
+    "palette_kg": 13,
+    "frachtzahler": "SLZ",
+    "lagerung": "INNEN",
+    "foto": "https://i.postimg.cc/8cZ5kJ5P/aurubis-spule.jpg"
+  },
+  {
+    "lieferant": "Bedra-Berkenhoff",
+    "art": "Spulen Typ 1",
+    "stapelfaktor": 12,
+    "frachtzahler": "SLZ",
+    "foto": "https://i.postimg.cc/L6YkH2vP/bedra-typ1.jpg"
+  },
+  {
+    "lieferant": "Garphyttan",
+    "art": "Ringträger klein",
+    "gewicht_stk": 17,
+    "frachtzahler": "Lieferant",
+    "foto": "https://i.postimg.cc/3xYkL2vP/garphyttan-klein.jpg"
+  }
+  // ... füge hier einfach weitere Einträge hinzu – die App erkennt sie automatisch!
+]
